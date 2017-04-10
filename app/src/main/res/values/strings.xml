@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Games of Thrones QuizApp</string>
+    <string name="hell">Hello kind traveller! Come, come, sit here, don\'t be shy. What\'s your name?</string>
+    <string name="hint1">Enter your name here</string>
+    <string name="drink">Good, good, it\'s nice to meet you. What would you like to drink?</string>
+    <string name="quest2">Hmm that\s certainly an.., interesting choice. Just give me a minute.., Here you are. Oh, I see you have a symbol of a creature on your tunic. What is it?</string>
+    <string name="quest3">Oh I see, that means that you\'re from that favourite family, that has this motto..,</string>
+    <string name="quest4">Yes, that\'s a really famous motto.. But I still don\t remember the name of your house. Tell me, is your family currently rulling Westeros?</string>
+    <string name="radio1">Ice with snow</string>
+    <string name="radio2">White wine</string>
+    <string name="radio3">Flaming shot</string>
+    <string name="radio4">Mead</string>
+    <string name="radio5">Lion</string>
+    <string name="radio6">Wolf</string>
+    <string name="radio7">Dragon</string>
+    <string name="radio8">Stag</string>
+    <string name="radio9">We always pay our debts</string>
+    <string name="radio10">Fire and Blood</string>
+    <string name="radio11">Ours is the Fury</string>
+    <string name="radio12">Winter is coming!</string>
+    <string name="check1">Yes</string>
+    <string name="check2">No</string>
+    <string name="check3">No, but we have in the past</string>
+    <string name="result">Oh, I remember now! Click the button below to find out!</string>
+</resources>
